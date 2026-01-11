@@ -1,5 +1,3 @@
-<div align="center">
-
 # LENORA RAVINDI MARAWEERA
 ### AI Engineer • Data Scientist • Intelligent Systems Builder
 
@@ -8,12 +6,12 @@
 ---
 
 **LIVE PROJECTS**
+
 [Virtual Stylist](https://virtual-stylist-z7k3.onrender.com/) | [Sales Predictor](https://clothing-sales-prediction-and-recommendation.streamlit.app/)
 
 **GITHUB**
-[github.com/Lenora04](https://github.com/Lenora04)
 
-</div>
+[github.com/Lenora04](https://github.com/Lenora04)
 
 ---
 
@@ -88,10 +86,13 @@ A predictive classification system designed to mitigate booking failure risks us
 
 ---
 
+## CURRENT FOCUS
+
+* Advanced agent coordination patterns and autonomous workflows.
+* MLOps pipelines, model monitoring, and lifecycle management.
+* Scalable AI architectures and high-throughput system design.
+* Responsible AI frameworks and optimization strategies.
+
 ---
 
-<div align="center">
-
-**ALWAYS BUILDING. ALWAYS LEARNING.**
-
-</div>
+**ALWAYS BUILDING. ALWAYS LEARNING. ALWAYS SHIPPING.**
